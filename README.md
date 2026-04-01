@@ -26,21 +26,7 @@ This framework provides the technical blueprint for a symbiotic future—where A
 * **[White Paper (PDF Source)](https://aquamarine-occasional-meadowlark-558.mypinata.cloud/ipfs/bafybeieo34vvnbtcqnuqsupf6ykmjligoqlqr7k2kltbnfhbobc62hab24):** The full technical and economic specification.
 * **[Contributor License Agreement](./CLA.md):** Mandatory terms for all specification contributions.
 
----
-
-## ⚖️ Intellectual Property & Licensing
-To ensure the integrity of the standard and secure its future as a global utility, the following terms apply:
-
-### 1. Ownership & Founder’s Rights
-The AAC™ Framework, its nomenclature, and implementation logic are the intellectual property of **Eric Michel, PhD** (the "Founder"). These rights are perpetual and reserved for the benefit of the Founder’s estate and successors.
-
-### 2. The "Open Specification" License
-This repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
-* **Non-Commercial Use:** Encouraged for researchers, academics, and open-source hobbyists for non-revenue purposes.
-* **Commercial Use:** Any revenue-generating application, SaaS implementation, or use in for-profit AI models requires a formal **Commercial Participation Agreement**.
-* **Trademarks:** The "AAC-Compliant" and "ACTC-Certified" designations are protected trademarks of the Founder.
-
-### 3. Contributor License Agreement (CLA)
+## Contributor License Agreement (CLA)
 By submitting a Pull Request or contributing to this specification, you agree to the [AAC™ Contributor License Agreement](./CLA.md). This ensures the specification remains unified and legally defensible under the Founder's stewardship.
 
 ---
@@ -79,7 +65,8 @@ Licensed under the Apache License, Version 2.0
 
 ---
 
-## License and Intellectual Property  
+## ⚖️ Intellectual Property & Licensing
+To ensure the integrity of the standard and secure its future as a global utility, the following terms apply:
 
 ### AIACTA™
 AI Architecture for Content Transparency and Attribution
