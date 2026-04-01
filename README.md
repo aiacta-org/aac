@@ -1,6 +1,6 @@
 
-# AAC
-## The AI Attribution & Compensation (AAC™) Framework
+# AAC™
+## The AI Attribution & Compensation (AAC) for the AIACTA™ Framework
 ### *Implementation Specifications for Publisher Visibility & Attribution Standards*
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
@@ -12,7 +12,7 @@
 ---
 
 ## 🌐 Vision: The Economic Bedrock for the AGI Era
-The **AAC™ Framework** (incorporating the ACTC™ Specifications) is a proposed **Open Specification** designed to solve the "Transparency Gap" in the Artificial Intelligence ecosystem. As we accelerate toward Artificial General Intelligence (AGI), our civilization requires a technical social contract that aligns the boundless potential of machine intelligence with the irreplaceable value of human expertise.
+The **AAC™** (incorporating the AIACTA™ Specifications) is a proposed entity for the AIACTA™ **Open Specification** designed to solve the "Transparency Gap" in the Artificial Intelligence ecosystem. As we accelerate toward Artificial General Intelligence (AGI), our civilization requires a technical social contract that aligns the boundless potential of machine intelligence with the irreplaceable value of human expertise.
 
 This framework provides the technical blueprint for a symbiotic future—where AI companies access high-fidelity training data at scale, and content creators are perpetually honored and compensated through a verifiable, cryptographic protocol.
 
