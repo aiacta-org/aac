@@ -36,7 +36,7 @@ By submitting a Pull Request or contributing to this specification, you agree to
 - 📧 Contact the Author: contact@aiacta.org
 - 📋 Governance: [docs/governance/aac-governance.md](https://github.com/aiacta-org/aac/docs/governance/aac-governance.md)
 
-The AIACTA Foundation is being formed as a neutral non-profit to govern
+The AIACTA™ Foundation is being formed as a neutral non-profit to govern
 the specification, certification, and AAC distributions. 
 
 Founding Partners, Sponsors, and Board member advisors are welcome and encouraged at: [foundation@aiacta.org]
@@ -44,7 +44,7 @@ Founding Partners, Sponsors, and Board member advisors are welcome and encourage
 ## 🤝 Join the Global Standard
 We are seeking a "Founding Class" of contributors to refine V2.0 Reference Implementation.
 
-1. **Star the [AIACTA](https://github.com/aiacta-org/aiacta) Repo** to show support for AI transparency. 
+1. **Star the [AIACTA™](https://github.com/aiacta-org/aiacta) Repo** to show support for AI transparency. 
 2. **Review the Specs:** Open an Issue to discuss architectural improvements or edge cases. 
 3. **Become a Partner:** If you represent an AI Lab or a Major Publisher, contact the Founder for early-access pilot programs.
 
